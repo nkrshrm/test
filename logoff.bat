@@ -1,1 +1,1 @@
-logoff
+shutdown /l
