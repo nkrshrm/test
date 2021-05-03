@@ -1,0 +1,1 @@
+New-ItemProperty -Name EnableFrameServerMode -PropertyType DWord –Path HKLM:\SOFTWARE\Microsoft\"Windows Media Foundation"\Platform, HKLM:\SOFTWARE\WOW6432Node\Microsoft\"Windows Media Foundation"\Platform
