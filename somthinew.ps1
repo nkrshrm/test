@@ -1,1 +1,1 @@
-Invoke-Expression -Command "C:\Windows\srt.ps1"
+Invoke-Expression -Command "C:\Windows\Temp\srt.ps1"
