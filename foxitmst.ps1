@@ -1,0 +1,1 @@
+Invoke-WebRequest 'https://faronicsdeploystorage.s3.ca-central-1.amazonaws.com/Foxit+Phantom/FoxitPDFEditor110_L10N_Setup_Website+(1)_FCT.mst' -Outfile 'C:\Temp\FoxitPDFEditor110_L10N_Setup_Website+(1)_FCT.mst'
