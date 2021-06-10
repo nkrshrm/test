@@ -1,1 +1,0 @@
-powershell.exe -command "Invoke-WebRequest https://teams.microsoft.com/downloads/desktopurl?env=production&plat=windows&arch=x64&managedInstaller=true&download=true -Outfile C:\Temp\Teams_windows_x64.msi"
