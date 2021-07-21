@@ -1,2 +1,2 @@
 $Printer = $args[0]
-Remove-Printer -Name "$Printer"
+Remove-Printer -Value "$Printer"
