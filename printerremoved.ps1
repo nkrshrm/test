@@ -1,2 +1,1 @@
-$Printer = $args[0]
-Remove-Printer -Value "$Printer"
+Remove-Printer -Name "Microsoft XPS Document Writer"
